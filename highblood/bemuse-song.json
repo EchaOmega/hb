@@ -1,0 +1,166 @@
+{
+  "bemusepack_url": "bemuse-data/sound/metadata.json",
+  "charts": [
+    {
+      "md5": "0e0bf4a298f15e269a58777449159c4e",
+      "info": {
+        "title": "High Blood",
+        "artist": "DJ Adrichii & OfficialAz3",
+        "genre": "Anger Fusion Trance feat. LoFi",
+        "subtitles": [
+          "[SP Beginner]"
+        ],
+        "subartists": [],
+        "difficulty": 1,
+        "level": 3
+      },
+      "noteCount": 173,
+      "bpm": {
+        "init": 140,
+        "min": 140,
+        "median": 140,
+        "max": 140
+      },
+      "duration": 172.17857142857142,
+      "scratch": true,
+      "keys": "7K",
+      "file": "_0.bms"
+    },
+    {
+      "md5": "38fe2ede2f7dc45e320c1b62591e752c",
+      "info": {
+        "title": "High Blood",
+        "artist": "DJ Adrichii & OfficialAz3",
+        "genre": "Anger Fusion Trance feat. LoFi",
+        "subtitles": [
+          "[SP Normal]"
+        ],
+        "subartists": [],
+        "difficulty": 2,
+        "level": 6
+      },
+      "noteCount": 742,
+      "bpm": {
+        "init": 140,
+        "min": 140,
+        "median": 140,
+        "max": 140
+      },
+      "duration": 172.17857142857142,
+      "scratch": true,
+      "keys": "7K",
+      "file": "_1.bms"
+    },
+    {
+      "md5": "d72dd18250415cb72c8e53a0728edbb3",
+      "info": {
+        "title": "High Blood",
+        "artist": "DJ Adrichii & OfficialAz3",
+        "genre": "Anger Fusion Trance feat. LoFi",
+        "subtitles": [
+          "[SP Hyper]"
+        ],
+        "subartists": [],
+        "difficulty": 3,
+        "level": 8
+      },
+      "noteCount": 921,
+      "bpm": {
+        "init": 140,
+        "min": 140,
+        "median": 140,
+        "max": 140
+      },
+      "duration": 172.17857142857142,
+      "scratch": true,
+      "keys": "7K",
+      "file": "_2.bms"
+    },
+    {
+      "md5": "e374734a6d39cd76892e23ee44754a98",
+      "info": {
+        "title": "High Blood",
+        "artist": "DJ Adrichii & OfficialAz3",
+        "genre": "Anger Fusion Trance feat. LoFi",
+        "subtitles": [
+          "[SP Another]"
+        ],
+        "subartists": [],
+        "difficulty": 4,
+        "level": 11
+      },
+      "noteCount": 1371,
+      "bpm": {
+        "init": 140,
+        "min": 140,
+        "median": 140,
+        "max": 140
+      },
+      "duration": 172.17857142857142,
+      "scratch": true,
+      "keys": "7K",
+      "file": "_3.bms"
+    },
+    {
+      "md5": "1d8d14c2949ebc40ba1b98981506e6ad",
+      "info": {
+        "title": "High Blood",
+        "artist": "DJ Adrichii & OfficialAz3",
+        "genre": "Anger Fusion Trance feat. LoFi",
+        "subtitles": [
+          "[5K Hard]"
+        ],
+        "subartists": [],
+        "difficulty": 4,
+        "level": 10
+      },
+      "noteCount": 976,
+      "bpm": {
+        "init": 140,
+        "min": 140,
+        "median": 140,
+        "max": 140
+      },
+      "duration": 172.17857142857142,
+      "scratch": true,
+      "keys": "5K",
+      "file": "_5k.bms"
+    },
+    {
+      "md5": "360d0ae356414814c8691a991fac950f",
+      "info": {
+        "title": "High Blood",
+        "artist": "DJ Adrichii & OfficialAz3",
+        "genre": "Anger Fusion Trance feat. LoFi",
+        "subtitles": [
+          "[DP Another]"
+        ],
+        "subartists": [],
+        "difficulty": 4,
+        "level": 11
+      },
+      "noteCount": 654,
+      "bpm": {
+        "init": 140,
+        "min": 140,
+        "median": 140,
+        "max": 140
+      },
+      "duration": 172.17857142857142,
+      "scratch": true,
+      "keys": "14K",
+      "file": "_dp.bms"
+    }
+  ],
+  "title": "High Blood",
+  "artist": "DJ Adrichii & OfficialAz3",
+  "genre": "Anger Fusion Trance feat. LoFi",
+  "bpm": 140,
+  "bms_url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=396&event=146",
+  "readme": "README.md",
+  "back_image_url": "bemuse-data/back_image.png",
+  "eyecatch_image_url": "bemuse-data/eyecatch_image.png",
+  "replaygain": "-13.91 dB",
+  "preview_offset": 60,
+  "preview_url": "bemuse-data/preview.mp3"
+}
